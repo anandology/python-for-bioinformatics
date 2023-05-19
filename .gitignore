@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+GSE*.txt
+GPL*.txt
+*.soft.gz
