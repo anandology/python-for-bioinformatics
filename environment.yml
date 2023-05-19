@@ -1,0 +1,23 @@
+# conda environment
+name: pybfx
+channels:
+  - default
+  - bioconda
+  - conda-forge
+dependencies:
+  - python=3.10
+  - openjdk
+  - pandas
+  - numpy
+  - requests
+  - fastqc
+  - trimmomatic
+  - bowtie2
+  - star
+  - subread
+  - samtools
+  - bamtools
+  - pip
+  - pip:
+    - cutadapt
+    - multiqc
