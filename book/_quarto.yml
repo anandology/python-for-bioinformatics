@@ -1,0 +1,40 @@
+project:
+  type: book
+
+book:
+  title: "Python for Bioinformatics"
+  author: "Anand Chitipothu"
+  #date: "6/5/2023"
+
+  reader-mode: true
+
+  page-footer:
+    left: |
+      Python for Bioinformatics was written by [Anand Chitipothu](https://anandology.com/).
+    right: |
+      This book was built with <a href="https://quarto.org/">Quarto</a>.
+
+  chapters:
+    - index.qmd
+    - taste-of-python.qmd
+    - seaborn.ipynb
+    - plotly.ipynb
+    - rpy2.ipynb
+    - references.qmd
+    - part: cookbook/index.qmd
+      chapters:
+        - cookbook/piechart.ipynb
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  # PrettyPDF-pdf:
+  #   keep-tex: true
+#  pdf:
+#    documentclass: scrreprt
+    #documentclass: scrbook
+
+
+

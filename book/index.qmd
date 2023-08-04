@@ -1,0 +1,5 @@
+# Preface {.unnumbered}
+
+Python for Bioinformatics is a course aimed at introducing Python programming language and the Bioinformatics libraries in Python for Bioinformatics professionals.
+
+
