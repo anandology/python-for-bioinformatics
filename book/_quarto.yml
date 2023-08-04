@@ -4,6 +4,8 @@ project:
 book:
   title: "Python for Bioinformatics"
   author: "Anand Chitipothu"
+  repo-url: https://github.com/anandology/python-for-bioinformatics/
+  repo-actions: [edit, issue]
   #date: "6/5/2023"
 
   reader-mode: true
