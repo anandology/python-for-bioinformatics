@@ -2,15 +2,14 @@
 
 Python for Bioinformatics is an introductory course targetted at Bioinformatics professionals who are new to Python.
 
-## Course Outline
+## Book
 
-The course is divided into three sections:
+The course content is organized as a book using Quarto. Please see the [book](https://github.com/anandology/python-for-bioinformatics/tree/main/book) to explore the contents.
 
-* Introduction to Python
-* Introduction to Data Analysis
-* Python for Bioinformatics
+You can read the book online at:
 
-see [00-index.ipynb](notebooks/00-index.ipynb) to get started.
+<https://anandology.com/python-for-bioinformatics>
+
 
 ## Duration
 
