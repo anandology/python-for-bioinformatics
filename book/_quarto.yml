@@ -17,6 +17,7 @@ book:
   chapters:
     - index.qmd
     - taste-of-python.qmd
+    - introduction-to-data-analysis.ipynb
     - seaborn.ipynb
     - plotly.ipynb
     - rpy2.ipynb
@@ -24,6 +25,7 @@ book:
     - part: cookbook/index.qmd
       chapters:
         - cookbook/piechart.ipynb
+        - cookbook/geoparse.ipynb
 
 bibliography: references.bib
 
